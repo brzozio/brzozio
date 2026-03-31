@@ -75,7 +75,9 @@ Developing and maintaining support for the production systems
 </table>
 
 ##  Projects
-### 🤖 Application of Neural Networks in Sign Language to Speech Translation Systems [Master Thesis @ Technical University of Lodz]
+### Application of Neural Networks in Sign Language to Speech Translation Systems 
+<p style="font-size: 10px">Master thesis @ Technical University of Lodz, 11 Dec 2025</p>
+
 The master’s thesis addresses the problem of automatic sign language recognition using
 neural networks. The primary goal of the study is to design and evaluate the architectures of
 machine learning models based on convolutional neural networks and graph neural networks.
@@ -90,7 +92,7 @@ Explainable Artificial Intelligence
 
 The Artificial Intelligence model was prepared using @PyTorch.
 
-### 🥕 [FitYouFood](https://github.com/1anKoz/FitYouFood)
+### [FitYouFood](https://github.com/1anKoz/FitYouFood)
 Group project – part of the 1st year on Technical University of Lodz.
 
 An application that can be used to track workouts, suggesting execrcises and generating dietary plans.
